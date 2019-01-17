@@ -14,17 +14,17 @@ This project is to analyze disaster data from [Figure Eight](https://www.figure-
 The jupyter notebook file should be run with python 3.X . Need to install nltk and download associate files.
 
 # Project Motivation<a name="motivation"></a>
-Built a multilabel classifier to do disaster messages classification by a subset of labels, so the messages can be delivered to the departments associated to response and handling.
+Built a multilabel classifier to do disaster messages classification by a subset of labels, so the messages can be delivered to the departments associated to response the disaster.
 
 
 # File Descriptions<a name="files"></a>
 There are 3 python files implement the product.
 
-process_data.py--preprocess the original message and category file and store the data in sqlite file database.
+process_data.py--preprocess and concatenate the original message and category file and store the data in sqlite file database.
 
 train_classifier.py--process text and built the multilabel classification model and store the model in a pkl file.
 
-run.py--flask backend file
+run.py--flask backend implement.
 
 templates--frontend go.html and master.html for web access.
 
