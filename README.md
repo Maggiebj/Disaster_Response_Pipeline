@@ -13,7 +13,7 @@ This project is to analyze disaster data from [Figure Eight](https://www.figure-
 The jupyter notebook file should be run with python 3.X . Need to install nltk and download associate files.
 
 # Project Motivation<a name="motivation"></a>
-Built a multilabel classifier to do disaster messages classification by a subset of labels, so the messages can be delivered to the departments associated to response the disaster labels.
+Built a multilabel classifier to do disaster messages classification by a subset of labels, so the messages can be delivered to the departments associated to response and handling.
 
 
 # File Descriptions<a name="files"></a>
