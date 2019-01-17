@@ -1,5 +1,6 @@
 # Disaster_Response_Pipeline
-This project is to analyze disaster data from [Figure Eight](https://www.figure-eight.com/) to build a multilabel classification model and a Flask backend and webpage that classifies disaster messages.
+This project is to analyze disaster data from [Figure Eight](https://www.figure-eight.com/) to build a multilabel classification model and a Flask backend and webpage to display the input message and classification result.
+
 ### Table of Contents
 
 1. [Installation](#installation)
